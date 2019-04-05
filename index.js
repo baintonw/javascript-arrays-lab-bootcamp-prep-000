@@ -6,7 +6,7 @@ function destructivelyAppendKitten(element) {
   var Ralph = element
   kittens.push(Ralph)
   return kittens
-
+}
 function destructivelyPrependKitten(element) {
   var Ralph = element
   kittens.unshift(Ralph)
