@@ -4,7 +4,7 @@ var kittens = ["Milo", "Otis", "Garfield"] //define your array here
 
 function destructivelyAppendKitten(element) {
   
-  return kittens.push(Ralph)
+  return kittens.push(element)
   
 }
 function destructivelyPrependKitten(element) {
