@@ -25,7 +25,6 @@ function destructivelyRemoveFirstKitten(element) {
 }
 
 function appendKitten(name) {
- 
- 
+ [...kittens, ]
 }
 
